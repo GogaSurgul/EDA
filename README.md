@@ -17,7 +17,6 @@
 
 
 ![image](https://github.com/GogaSurgul/EDA/assets/138851485/70beab2c-78c4-4092-a78d-5d2473dd133e)
-![image](https://github.com/GogaSurgul/EDA/assets/138851485/38ce11f0-0bf7-42b4-987e-2fc9f0d8ae22)
 ![image](https://github.com/GogaSurgul/EDA/assets/138851485/e26e0387-914d-4c39-bed3-56a6fec8e56f)
 ![image](https://github.com/GogaSurgul/EDA/assets/138851485/11e724fa-2552-454f-8c92-fe2d9799254b)
 ![image](https://github.com/GogaSurgul/EDA/assets/138851485/5b6f0530-9b5e-4105-97e7-33f97244a1d9)
