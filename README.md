@@ -26,3 +26,24 @@
 ![image](https://github.com/GogaSurgul/EDA/assets/138851485/bc5d1c26-cde3-4113-9ce8-747235a0fb2e)
 ![image](https://github.com/GogaSurgul/EDA/assets/138851485/e51905a7-06ac-40d9-acf9-0bdee00c0f3b)
 
+
+
+The data and graphs provided is useful for several reasons, including the following:
+
+1. Understanding the format and contents of the DataFrame at a glance.
+2. Understanding the structure of the DataFrame and identifying any missing data.
+3. Cleaning the DataFrame by dropping rows that contain missing values and assigning the cleaned DataFrame to a new variable.
+4. Providing an overview of the cleaned data, including column names, data types, and the count of non-null values for each column.
+5. Counting the number of tracks associated with each unique artist in the cleaned DataFrame and storing the counts in a variable.
+6. Counting the number of tracks associated with each unique album in the cleaned DataFrame and storing the counts in a variable.
+7. Generating a histogram to visualize the distribution of Spotify stream numbers in the cleaned DataFrame.
+8. Creating a bar plot to display the top 10 artists with the highest track counts.
+9. Creating a scatter plot to visualize the correlation between Spotify stream numbers and YouTube views.
+10. Generating a histogram to visualize the distribution of the danceability feature in the cleaned DataFrame.
+11. Analyzing the distribution of numerical features, such as energy and loudness, through histograms and box plots.
+12. Investigating the relationship between numerical features, such as tempo and energy, through scatter plots and correlation matrices.
+13. Analyzing the distribution of categorical variables, such as album types and official video status, through bar plots and pie charts.
+
+These visualizations and analyses provide insights into the characteristics of the data, helping to understand patterns, trends, and relationships within the dataset.
+
+In this context to make predictions and classifications, machine learning algorithms can be applied: Predicting Spotify stream numbers, Classifying song genres, Predicting YouTube views, Recommending similar songs or artists, Predicting music popularity.
