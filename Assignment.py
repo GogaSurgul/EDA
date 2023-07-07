@@ -24,7 +24,7 @@ import pandas as pd
 import pyarrow.parquet as pq
 
 # Load the Parquet file into a DataFrame
-df = pq.read_table(r"C:\Users\GOGA\Desktop\midterm.parquet").to_pandas()
+df = pq.read_table(r"C:\Users\NAME\Desktop\spotify.parquet").to_pandas()
 
 
 # In[2]:
